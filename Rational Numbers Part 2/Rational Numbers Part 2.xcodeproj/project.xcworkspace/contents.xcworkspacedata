@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../Rational Numbers Part 2/main.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Rational Numbers Part 2/TestCases.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../Rational Numbers Part 2/TestCases.hpp">
+   </FileRef>
+   <FileRef
+      location = "self:Rational Numbers Part 2.xcodeproj">
+   </FileRef>
+</Workspace>
